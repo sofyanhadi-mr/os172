@@ -1,0 +1,3 @@
+w01-170906-10-LR-About: Task week01
+w01-170907-19-LR-About: HKI, Basic Scripting, demo scripting, From Lecturer 
+w01-170909-08-PS-About: Lab demo scripting
