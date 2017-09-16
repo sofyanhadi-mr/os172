@@ -1,0 +1,4 @@
+w02-170913-13-LR-About: memo week02
+w02-170914-13-LR-About: Protection, Security, Privacy, & C-language, From: Lecturer
+w02-170916-14-LR-About: Task week02
+w00-170916-19-PS-About: Lab Demo
