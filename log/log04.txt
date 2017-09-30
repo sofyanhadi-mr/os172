@@ -1,0 +1,5 @@
+w04-170927-10-LR-About: memo week3
+w04-170928-19-LR-About: BIOS, Loader, Systemd, & I/O From Lecturer
+w04-170930-08-PS-About: Task Week04
+w04-170930-08-PS-About: Lab Week04
+
